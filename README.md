@@ -1,5 +1,8 @@
 # pandas-challenge
 
+Assignemnt comeplted in PyCitySchools_starter - Copy.ipynb
+
+
 Code was ran in Python 3.11.3
 
 
