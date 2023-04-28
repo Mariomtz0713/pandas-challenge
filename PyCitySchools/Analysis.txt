@@ -1,3 +1,4 @@
-Summarizes the analysis 
+The Dataframes show on average students score higher on their Math and Reading scores when a school has a lower spending budget per student. The highest spending range $645-$680 had an overall passing rate of 53% while the lowest spending range of <$585 had an overall passring rate of 90%.
 
-Draws two correct conclusions or comparisons from the calculations
+Charter schools reached higher benchmarks in every category than District schools. Charter schools having an Overall passing rate of 90% while District schools with a 53% overall passing rate.
+
